@@ -6,6 +6,7 @@ The aim of our shield card is to add new functionality to the Raspberry Pi, in p
 <h1> Electronic diagram</h1>
 The PCB is a two-layer construction. It measures 6.5 cm x 3.3cm. This is half the width of the Raspberry Pi board. Our shield board will be held in place by the female connector and the two holes located in front of the Raspberry Pi board for easy attachment.
 
+
 ![Alt text](images/diagram.png?raw=true "PCB in 3D view")
 
 <h1>PCB Design</h1>
@@ -15,10 +16,11 @@ The PCB is half the size of the Raspberry Pi 4 board, so it will now be screwed 
 In the middle of the board you'll find the analog-to-digital converter, which converts the value of our potentiometer, temperature sensor and photoresistor.
 On the digital side, you'll find the remote control's push-button and infrared sensor:
 
-![Alt text](images/2d.png?raw=true "PCB in 3D view")
+![Alt text](images/2D.png?raw=true "PCB in 3D view")
 
 Here is a 3d view of the PCB:
-![Alt text](images/3d.png?raw=true "Original drawing of model B")
+
+![Alt text](images/3D.png?raw=true "Original drawing of model B")
 
 
 
